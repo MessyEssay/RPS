@@ -1,2 +1,4 @@
 # RPS
-rock paper scissors
+/|\rock paper scissors/|\
+-computer choice func works.
+-js game function 👍🏻
