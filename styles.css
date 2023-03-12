@@ -1,0 +1,25 @@
+h2, h1{
+    display: flex;
+    justify-content: center;
+}
+
+
+.button-container{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    gap:5em;
+    padding: 2.5em;
+}
+
+.Rock{
+    transform: scale(3.6);
+}
+
+.Paper{
+    transform: scale(3.6);
+}
+
+.Scissors{
+    transform: scale(3.6);
+}
